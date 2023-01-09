@@ -10,7 +10,7 @@ from scipy.optimize import leastsq
 from scipy import stats
 
 from optparse import OptionParser
-
+print("hello")
 g_norm = 1.0/np.sqrt(2*np.pi)
 
 #---------------------------------------------------------------------------------------------------
