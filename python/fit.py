@@ -9,7 +9,7 @@ from scipy.optimize import curve_fit
 from scipy import stats
 
 from optparse import OptionParser
-
+print("mama")
 g_norm = 1.0/np.sqrt(2*np.pi)
 
 #---------------------------------------------------------------------------------------------------
